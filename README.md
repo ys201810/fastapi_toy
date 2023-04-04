@@ -5,6 +5,6 @@
 
 ## FastAPIとswaggerのサンプルコード
 `src/sample_app.py`を作成し、`uvicorn sample_app:app --reload`を実行するとAPIが立ち上がる。  
-http://127.0.0.0.1:8000/docs　にアクセスすることでswaggerのドキュメントにアクセスできる。  
+[http://127.0.0.0.1:8000/docs](http://127.0.0.0.1:8000/docs)　にアクセスすることでswaggerのドキュメントにアクセスできる。  
 
-![swaggerのテスト実行](image/01.png)
+![swaggerのテスト実行](images/01.png)
